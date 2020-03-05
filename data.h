@@ -1,3 +1,4 @@
+// github makes me wanna die :)
 #pragma once
 #include <iostream>
 #include <windows.h>
